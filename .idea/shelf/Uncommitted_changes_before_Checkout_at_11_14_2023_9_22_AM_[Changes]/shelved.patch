@@ -1,0 +1,15 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\n\r\necho 'kiet';\r\n\r\n\r\n
+===================================================================
+diff --git a/index.php b/index.php
+--- a/index.php	
++++ b/index.php	
+@@ -1,6 +1,4 @@
+ <?php
+-
+-
+ echo 'kiet';
+ 
+ 

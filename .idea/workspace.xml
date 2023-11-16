@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8350b486-f54f-4514-a7be-1c34d4e20166" name="Changes" comment="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev/phuongvdpc06941" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev/develop" />
+                    <option name="lastUsedInstant" value="1700096430" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev/phuongvdpc06941" />
+                    <option name="lastUsedInstant" value="1700047116" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev/kietntpc06947" />
+                    <option name="lastUsedInstant" value="1700045654" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Y94lqN1AnXWr5auc712Gih3F98" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files/Ampps/www/DU_AN1_ASSIGNMENTS_TULUNAPK",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8350b486-f54f-4514-a7be-1c34d4e20166" name="Changes" comment="" />
+      <created>1699924615211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699924615211</updated>
+      <workItem from="1699924616141" duration="450000" />
+      <workItem from="1699925078524" duration="3656000" />
+      <workItem from="1699928800408" duration="85000" />
+      <workItem from="1699942488496" duration="693000" />
+      <workItem from="1700031011598" duration="3046000" />
+      <workItem from="1700045603554" duration="2095000" />
+      <workItem from="1700068221189" duration="115000" />
+      <workItem from="1700068352294" duration="156000" />
+      <workItem from="1700068525074" duration="22000" />
+      <workItem from="1700068560984" duration="99000" />
+      <workItem from="1700068676138" duration="738000" />
+      <workItem from="1700096024844" duration="27000" />
+      <workItem from="1700096062889" duration="462000" />
+    </task>
+    <task id="LOCAL-00001" summary="N02 - phuong print">
+      <option name="closed" value="true" />
+      <created>1699926700358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699926700358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="N02 - phuong print">
+      <option name="closed" value="true" />
+      <created>1699943075830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699943075830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="N02-02 - phuong print haha lần 2">
+      <option name="closed" value="true" />
+      <created>1700032079499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700032079499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DELETE - 0 : XOA CAC FILE VE BAN DAU">
+      <option name="closed" value="true" />
+      <created>1700046037185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700046037185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DELETE - 0 : XOA CAC FILE VE BAN DAU">
+      <option name="closed" value="true" />
+      <created>1700046106105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700046106105</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test 1 : Tu nhanh chinh ve phu">
+      <option name="closed" value="true" />
+      <created>1700046836995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700046836995</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DELETE Test 1 : Tu nhanh chinh ve phu">
+      <option name="closed" value="true" />
+      <created>1700047099238</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700047099238</updated>
+    </task>
+    <task id="LOCAL-00008" summary="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien">
+      <option name="closed" value="true" />
+      <created>1700096354878</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700096354878</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="N02 - phuong print" />
+    <MESSAGE value="N02-02 - phuong print haha lần 2" />
+    <MESSAGE value="DELETE - 0 : XOA CAC FILE VE BAN DAU" />
+    <MESSAGE value="Test 1 : Tu nhanh chinh ve phu" />
+    <MESSAGE value="DELETE Test 1 : Tu nhanh chinh ve phu" />
+    <MESSAGE value="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien" />
+    <option name="LAST_COMMIT_MESSAGE" value="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
