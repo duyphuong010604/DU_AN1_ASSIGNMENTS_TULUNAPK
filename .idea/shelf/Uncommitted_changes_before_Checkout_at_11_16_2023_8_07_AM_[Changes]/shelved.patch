@@ -1,0 +1,93 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8350b486-f54f-4514-a7be-1c34d4e20166\" name=\"Changes\" comment=\"N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"dev/phuongvdpc06941\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n    <option name=\"recentBranches\">\r\n      <RecentBranches>\r\n        <option name=\"branchesForRepo\">\r\n          <list>\r\n            <RecentBranchesForRepo>\r\n              <option name=\"branches\">\r\n                <list>\r\n                  <RecentBranch>\r\n                    <option name=\"branchName\" value=\"dev/develop\" />\r\n                    <option name=\"lastUsedInstant\" value=\"1700096430\" />\r\n                  </RecentBranch>\r\n                  <RecentBranch>\r\n                    <option name=\"branchName\" value=\"dev/phuongvdpc06941\" />\r\n                    <option name=\"lastUsedInstant\" value=\"1700047116\" />\r\n                  </RecentBranch>\r\n                  <RecentBranch>\r\n                    <option name=\"branchName\" value=\"dev/kietntpc06947\" />\r\n                    <option name=\"lastUsedInstant\" value=\"1700045654\" />\r\n                  </RecentBranch>\r\n                </list>\r\n              </option>\r\n              <option name=\"repositoryRootUrl\" value=\"file://$PROJECT_DIR$\" />\r\n            </RecentBranchesForRepo>\r\n          </list>\r\n        </option>\r\n      </RecentBranches>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2Y94lqN1AnXWr5auc712Gih3F98\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/Program Files/Ampps/www/DU_AN1_ASSIGNMENTS_TULUNAPK\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8350b486-f54f-4514-a7be-1c34d4e20166\" name=\"Changes\" comment=\"\" />\r\n      <created>1699924615211</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1699924615211</updated>\r\n      <workItem from=\"1699924616141\" duration=\"450000\" />\r\n      <workItem from=\"1699925078524\" duration=\"3656000\" />\r\n      <workItem from=\"1699928800408\" duration=\"85000\" />\r\n      <workItem from=\"1699942488496\" duration=\"693000\" />\r\n      <workItem from=\"1700031011598\" duration=\"3046000\" />\r\n      <workItem from=\"1700045603554\" duration=\"2095000\" />\r\n      <workItem from=\"1700068221189\" duration=\"115000\" />\r\n      <workItem from=\"1700068352294\" duration=\"156000\" />\r\n      <workItem from=\"1700068525074\" duration=\"22000\" />\r\n      <workItem from=\"1700068560984\" duration=\"99000\" />\r\n      <workItem from=\"1700068676138\" duration=\"738000\" />\r\n      <workItem from=\"1700096024844\" duration=\"27000\" />\r\n      <workItem from=\"1700096062889\" duration=\"462000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"N02 - phuong print\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699926700358</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699926700358</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"N02 - phuong print\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699943075830</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699943075830</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"N02-02 - phuong print haha lần 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700032079499</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700032079499</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"DELETE - 0 : XOA CAC FILE VE BAN DAU\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700046037185</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700046037185</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"DELETE - 0 : XOA CAC FILE VE BAN DAU\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700046106105</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700046106105</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Test 1 : Tu nhanh chinh ve phu\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700046836995</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700046836995</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"DELETE Test 1 : Tu nhanh chinh ve phu\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700047099238</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700047099238</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1700096354878</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1700096354878</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"false\" />\r\n    <MESSAGE value=\"N02 - phuong print\" />\r\n    <MESSAGE value=\"N02-02 - phuong print haha lần 2\" />\r\n    <MESSAGE value=\"DELETE - 0 : XOA CAC FILE VE BAN DAU\" />\r\n    <MESSAGE value=\"Test 1 : Tu nhanh chinh ve phu\" />\r\n    <MESSAGE value=\"DELETE Test 1 : Tu nhanh chinh ve phu\" />\r\n    <MESSAGE value=\"N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien\" />\r\n    <option name=\"OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n    <option name=\"REFORMAT_BEFORE_PROJECT_COMMIT\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision dbe84d02d8ef08ad0fcd9149cc437d254868c7c4)
++++ b/.idea/workspace.xml	(date 1700096826871)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8350b486-f54f-4514-a7be-1c34d4e20166" name="Changes" comment="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien" />
++    <list default="true" id="8350b486-f54f-4514-a7be-1c34d4e20166" name="Changes" comment="commit test 1" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -36,7 +36,7 @@
+     </excluded-from-favorite>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="dev/phuongvdpc06941" />
++        <entry key="$PROJECT_DIR$" value="dev/kietntpc06947" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -52,16 +52,16 @@
+                 <list>
+                   <RecentBranch>
+                     <option name="branchName" value="dev/develop" />
+-                    <option name="lastUsedInstant" value="1700096430" />
++                    <option name="lastUsedInstant" value="1700096690" />
++                  </RecentBranch>
++                  <RecentBranch>
++                    <option name="branchName" value="dev/kietntpc06947" />
++                    <option name="lastUsedInstant" value="1700096677" />
+                   </RecentBranch>
+                   <RecentBranch>
+                     <option name="branchName" value="dev/phuongvdpc06941" />
+                     <option name="lastUsedInstant" value="1700047116" />
+                   </RecentBranch>
+-                  <RecentBranch>
+-                    <option name="branchName" value="dev/kietntpc06947" />
+-                    <option name="lastUsedInstant" value="1700045654" />
+-                  </RecentBranch>
+                 </list>
+               </option>
+               <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+@@ -88,6 +88,7 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
++    "git-widget-placeholder": "dev/develop",
+     "last_opened_file_path": "C:/Program Files/Ampps/www/DU_AN1_ASSIGNMENTS_TULUNAPK",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+@@ -131,6 +132,7 @@
+       <workItem from="1700068676138" duration="738000" />
+       <workItem from="1700096024844" duration="27000" />
+       <workItem from="1700096062889" duration="462000" />
++      <workItem from="1700096539138" duration="287000" />
+     </task>
+     <task id="LOCAL-00001" summary="N02 - phuong print">
+       <option name="closed" value="true" />
+@@ -196,7 +198,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1700096354878</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="commit test 1">
++      <option name="closed" value="true" />
++      <created>1700096777269</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1700096777269</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -221,7 +231,8 @@
+     <MESSAGE value="Test 1 : Tu nhanh chinh ve phu" />
+     <MESSAGE value="DELETE Test 1 : Tu nhanh chinh ve phu" />
+     <MESSAGE value="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien" />
+-    <option name="LAST_COMMIT_MESSAGE" value="N1 - XX : [HTML-&gt;PHP] Chinh sua giao dien" />
++    <MESSAGE value="commit test 1" />
++    <option name="LAST_COMMIT_MESSAGE" value="commit test 1" />
+     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+   </component>
